@@ -61,3 +61,6 @@ Maria is doing an analysis of a school district, and she has asked for my help. 
 ![Updated Scores by Type](https://user-images.githubusercontent.com/86024575/127042350-c81c18a9-d875-4e40-b260-82b76c45e8f1.png)
 
 *Updated Scores by School Type*
+
+### Summary
+Replacing the grades of the ninth graders had the largest effect on the per school summary. However, after fixing the number of students for Thomas High School and taking the new percentage, the new numbers are not very different from the original summaries. 
