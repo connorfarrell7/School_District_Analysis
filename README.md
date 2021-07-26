@@ -14,19 +14,13 @@ Maria is doing an analysis of a school district, and she has asked for my help. 
 
 -	The school summary has changed drastically, with roughly thirty percent drop in Thomas High School’s numbers.
 
-![Original School Summary](https://user-images.githubusercontent.com/86024575/127038993-927b85e3-d504-4c8e-abb0-1b659830bd93.png)
-*Initial District Summary*
-
-![Updated School Summary](https://user-images.githubusercontent.com/86024575/127039000-c3acc7ed-2bbc-4999-bea5-d20c9681d384.png)
-*Updated District Summary*
-
--	Replacing the ninth grader’s scores with null values brings Thomas High School down from the second highest performing spot to the eighth highest performing spot.
-
-![Original THS scores](https://user-images.githubusercontent.com/86024575/127040432-e4bb99b2-0fa0-46be-bf5a-39430513d3cf.png)
+![Original THS scores](https://user-images.githubusercontent.com/86024575/127042632-13cf1a90-9bae-4151-9ae7-0fd23ed8e5e6.png)
 *Original Thomas High School Scores*
 
-![Updated THS Scores](https://user-images.githubusercontent.com/86024575/127040483-4b47f0a6-c756-4e3a-98d9-cf6466e0f2e8.png)
+![Updated THS Scores](https://user-images.githubusercontent.com/86024575/127042654-ac43c474-04e8-44f1-8297-0d50e5ee7108.png)
 *Updated Thomas High School Scores*
+
+-	Replacing the ninth grader’s scores with null values brings Thomas High School down from the second highest performing spot to the eighth highest performing spot.
 
 -	The math and reading scores by grade table now has “nan” for the ninth-grade column, but other scores are unaffected.
 
