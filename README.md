@@ -32,7 +32,7 @@ Maria is doing an analysis of a school district, and she has asked for my help. 
 
 *Updated Math Scores by Grade*
 
--	Scores by school spending summary has increased slightly in the in the $585-629 and $630-644 ranges.
+-	Scores by school spending summary has increased slightly in the in the $630-644 range, and increasedby almost ten percent overall in the $585-629 range.
 
 ![Original Scores by School Spending](https://user-images.githubusercontent.com/86024575/127041334-63ea8e6c-a0ee-4cb7-8e5e-28d821cc605e.png)
 
