@@ -32,7 +32,7 @@ Maria is doing an analysis of a school district, and she has asked for my help. 
 
 *Updated Math Scores by Grade*
 
--	Scores by school spending summary has increased in the in the $585-629 and $630-644 ranges.
+-	Scores by school spending summary has increased slightly in the in the $585-629 and $630-644 ranges.
 
 ![Original Scores by School Spending](https://user-images.githubusercontent.com/86024575/127041334-63ea8e6c-a0ee-4cb7-8e5e-28d821cc605e.png)
 
@@ -63,4 +63,4 @@ Maria is doing an analysis of a school district, and she has asked for my help. 
 *Updated Scores by School Type*
 
 ### Summary
-Replacing the grades of the ninth graders had the largest effect on the per school summary. However, after fixing the number of students for Thomas High School and taking the new percentage, the new numbers are not very different from the original summaries. 
+Replacing the grades of the ninth graders had the largest effect on the per school summary. However, after fixing the number of students for Thomas High School and taking the new percentage, the new scores are not very different than they were in the original summaries. The changes would have had a more drastic effect on the entire school district if the number of students at Thomas High School had not been changed. 
