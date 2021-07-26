@@ -7,9 +7,11 @@ Maria is doing an analysis of a school district, and she has asked for my help. 
 -	The district summary is hardly changed, with less than one percent difference with the new dataset.
 
 ![Original District Summary](https://user-images.githubusercontent.com/86024575/127038716-f8dc1db1-7793-418c-bf06-66021cf5bcb7.png)
-*Inital District Summary*
+
+*Orignal District Summary*
 
 ![Updated District Summary](https://user-images.githubusercontent.com/86024575/127038749-beb39141-03e7-4887-9631-ecb7b03820eb.png)
+
 *Updated District Summary*
 
 -	The school summary has changed drastically, with roughly thirty percent drop in Thomas High School’s numbers.
